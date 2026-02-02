@@ -11,7 +11,8 @@ Implementation of paper **"Lifelong Learning with Behavior Consolidation for Veh
 
 Lifelong Learning with Behavior Consolidation for Vehicle Routing, Jiyuan Pei, Yi Mei, Jialin Liu, Mengjie Zhang and Xin Yao. arXiv:2509.21765.
 
-'''
+
+```
 @misc{LLRBC,
       title={Lifelong Learning with Behavior Consolidation for Vehicle Routing}, 
       author={Jiyuan Pei and Yi Mei and Jialin Liu and Mengjie Zhang and Xin Yao},
@@ -21,7 +22,7 @@ Lifelong Learning with Behavior Consolidation for Vehicle Routing, Jiyuan Pei, Y
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2509.21765}, 
 }
-'''
+```
 
 ## Repository Structure
 
