@@ -81,9 +81,9 @@ Lifelong Learning with Behavior Consolidation for Vehicle Routing, Jiyuan Pei, Y
 
 ## Requirements
 
-The dependencies of this project are listed in `requirement.txt`. You can install them using the following command.
+The dependencies of this project are listed in `requirements.txt`. You can install them using the following command.
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 
