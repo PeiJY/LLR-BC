@@ -14,7 +14,6 @@ Lifelong Learning with Behavior Consolidation for Vehicle Routing, Jiyuan Pei, Y
 ## Repository Structure
 
 ```
-├── generate_task_order.py              # Helper script to generate task orders for lifelong experiments
 ├── LICENSE
 ├── LLR-BC.png
 ├── README.md                           # This file
