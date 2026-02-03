@@ -2,7 +2,7 @@
 
 [![ArXiv](https://img.shields.io/badge/arXiv-2509.21765-b31b1b.svg)](https://arxiv.org/abs/2509.21765)
 
-Implementation of paper **"Lifelong Learning with Behavior Consolidation for Vehicle Routing"**. 
+Implementation of paper **"Lifelong Learning with Behavior Consolidation for Vehicle Routing"**.  We tackle the problem of **lifelong learning from a sequence of vehicle routing problem (VRP) tasks with different (demand and node coordinate) distributions and problem scale to generate a high-performance constructive neural solver** using a novel framework called **LLR-BC**, which achieves **promising stability, plasticity, and zero-shot generalization on unseen tasks**.
 
 ![LLR-BC](./LLR-BC.png)
 
